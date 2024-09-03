@@ -19,4 +19,7 @@ astro dev init
 
 # UP THE AIRFLOW Server
 astro dev start
+
+# Restart
+astro dev restart
 ```
